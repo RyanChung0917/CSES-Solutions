@@ -1,0 +1,20 @@
+# Compiled C/C++ files
+*.exe
+*.out
+*.o
+*.obj
+
+# VS Code
+.vscode/
+
+# C/C++ debugging
+*.pdb
+*.ilk
+
+# Temporary files
+*.tmp
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
